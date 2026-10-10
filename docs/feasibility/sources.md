@@ -52,7 +52,10 @@ Search extracts are paraphrases plus short quotes produced by the search tool. T
 | Lighting presets (2025 manual) — https://manuals.keyshot.com/kss2025/manual/lighting.html ; blog https://www.keyshot.com/blog/using-lighting-presets-in-keyshot | S | Jewelry preset = Interior + ground illumination + more ray bounces + caustics |
 | Render layers and passes quick tip — https://www.keyshot.com/blog/keyshot-quick-tip-render-layers-and-render-passes-in-keyshot | S | Clown pass coloured per material |
 | Gem material (KS 11 manual) — https://manual.keyshot.com/keyshot11/?p=3773 ; Will Gibbons, Dispersion in KeyShot — https://www.willgibbons.com/articles/keyshot-dispersion | S | Abbe number control; 35–55 starting range; dispersion samples |
-| KeyShot Studio editions (reseller) — https://doschdesign.com/products/keyshot/keyshot-studio.html | S | Professional / Business / Enterprise naming |
+| KeyShot Studio editions (reseller) — https://doschdesign.com/products/keyshot/keyshot-studio.html | S | Professional / Business / Enterprise naming; 2026.2 scripting additions |
+| KeyShot pricing — https://www.keyshot.com/pricing/ | S | All Studio features in every plan; plans differ by support, seats and add-ons; Professional $1,299/yr, Business $1,599/yr |
+| KeyShot manual, Scripting (2025) — https://manuals.keyshot.com/kss2025/manual/scripting.html | S | Scripting window via Ribbon or Window › Scripting Console; Scripts tab lists the Scripts folder; Python 3.12 |
+| KeyShot manual, Light Manager — https://manual.keyshot.com/?p=9044 | S | Shift+L overview of all light materials; edit key parameters; double-click opens the material |
 
 ## Jewelry optics
 

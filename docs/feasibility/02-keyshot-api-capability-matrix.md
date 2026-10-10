@@ -163,7 +163,9 @@ E0.**
 |---|---|---|
 | Scripting edition | "Scripting (Pro feature)" (KeyShot 11 manual); headless "Pro feature, 9.3 or newer" (2024 manual) | [E1] for those versions |
 | 2026 editions | KeyShot Studio **Professional / Business / Enterprise**; rental only, from **$1,299/year** (2026.2 coverage) | [E2] (reseller and press) |
-| Which 2026 editions include scripting and the HDRI Editor | Not found | **[E3] — ask Luxion** |
+| Which 2026 editions include scripting and the HDRI Editor | KeyShot's pricing page (search extract) says every KeyShot Studio plan includes all Studio features; plans differ by support, seat management and add-ons. Scripting is not listed as a separate row. Probably in all three editions, but **not explicitly confirmed**. | **[E2] — still confirm with Luxion** |
+| Older perpetual licences (KeyShot ≤ 11 HD / non-Pro) | Scripting was a Pro feature | [E1] → those users cannot run the tool |
+| 2026.2 scripting additions | Faster script execution; object and camera keyframes via script; headless animation rendering; scriptable re-tessellation (reseller listing of the update) | [E2] |
 | Redistribution of commercial scripts; EULA limits on add-ons | Not found | **[E4] — legal review** |
 | KeyShot Viewer / Web / Cloud running scripts | Not found | [E4] — out of scope |
 
