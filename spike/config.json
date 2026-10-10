@@ -1,0 +1,24 @@
+{
+  "experiments": ["E0", "E1", "E2", "E3", "E6", "E7"],
+  "repeats": 1,
+  "render": true,
+  "render_size": [400, 400],
+  "render_samples": 32,
+  "light_material": null,
+  "kmp_path": null,
+  "lighting_preset_to_test": "Jewelry",
+  "clear_scene": false,
+  "e4_sizes": [256, 384, 512],
+  "e4_samples": [16, 32, 64, 128],
+  "e4_repeats": 5,
+  "variants": {
+    "E1": [
+      {},
+      {"e1_variant": {"geometry_units": 1000}},
+      {"e1_variant": {"geometry_units": 1}},
+      {"e1_variant": {"up_vector": 1}},
+      {"e1_variant": {"up_vector": 2}},
+      {"e1_variant": {"separate_parts": false}}
+    ]
+  }
+}
